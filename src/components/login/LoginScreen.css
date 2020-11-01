@@ -1,0 +1,11 @@
+#login {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    max-width: 600px;
+    width: 100%;
+}
