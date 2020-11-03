@@ -16,7 +16,7 @@ Ingresar en la consola `npm start` para poner a correr el dev server. Navegar en
 
 ## 🎨 Demo
 
-Puedes ver el demo aquí → <a href="https://job-listner-app.netlify.app/" target="_blank">Job Listener App</a>
+Puedes ver el demo aquí → <a href="https://heroes-app-react.netlify.app/" target="_blank">React Heroes App</a>
 
 ## 🛠️ Construido con
 
